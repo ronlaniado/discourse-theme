@@ -8,7 +8,9 @@
 @import "kodular/user-menu.scss";
 @import "kodular/cards.scss";
 
-
+#suggested-topics {
+    display: none;
+}
 
 th.posters.topic-list-data, td.posters.topic-list-data {
     display: none;
