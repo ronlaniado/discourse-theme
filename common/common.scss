@@ -181,8 +181,6 @@ body.dark-knight #navigation-bar a:not(.active):hover {
 
 .topic-post {
     padding: 0 15px;
-    font-weight: bold;
-    color: black;
 }
 
 .topic-post:not(:first-child),
@@ -423,6 +421,8 @@ pre code {
 }
 
 aside .title {
+    color: black;
+    font-weight: bold;
     line-height: 100%;
     border-radius: 5px 5px 0 0;
     border: 1px solid var(--primary-200);
