@@ -218,7 +218,7 @@ body.dark-knight #navigation-bar a:not(.active):hover {
 #topic-footer-button-bookmark:hover,
 #topic-footer-button-share-and-invite:hover,
 #topic-footer-button-flag:hover {
-    color: black;
+    color: #444;
     background-color: #eee;
 }
 
@@ -308,14 +308,14 @@ body.dark-knight #navigation-bar a:not(.active):hover {
 .topic-status i {
     margin-right: 5px;
     vertical-align: middle;
-    color: black;
+    color: #444;
 }
 
 .title-wrapper > h1 > div > span > .fa-lock::before {
     vertical-align: middle;
     padding-bottom: 5px;
     font-size: 22px;
-    color: black;
+    color: #444;
 }
 
 .post-menu-area {
@@ -347,12 +347,12 @@ body.dark-knight #navigation-bar a:not(.active):hover {
     border: 1px solid var(--primary-200);
     border-radius: 5px;
     padding: 0 7px;
-    color: black !important;
+    color: #444 !important;
 }
 
 .post-controls button.reply i,
 .post-controls button.show-replies i {
-    color: black !important;
+    color: #444 !important;
     display: inline-flex;
     vertical-align: bottom;
 }
