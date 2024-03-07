@@ -8,6 +8,11 @@
 @import "kodular/user-menu.scss";
 @import "kodular/cards.scss";
 
+.title {
+    font-weight: bold;
+    color: black;
+}
+
 #suggested-topics {
     display: none;
 }
